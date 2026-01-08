@@ -1,0 +1,5 @@
+{
+  "name": "PMBOK Scope Master",
+  "description": "An AI-powered project management tool specifically designed for PMBOK® Processes 2.5 (Control Scope) and 2.6 (Validate Scope), helping PMs detect scope creep and automate formal deliverable acceptance.",
+  "requestFramePermissions": []
+}
